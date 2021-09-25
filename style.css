@@ -1,0 +1,31 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.heading_div {
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+    font-style: initial;
+    font-family: 'Dancing Script', cursive;
+}
+
+.heading_div2 {
+    font-size: 18px;
+    background-color: rgb(95, 105, 160);
+}
+
+
+
+#title {
+    font-family: 'Gemunu Libre', sans-serif;
+    font-style: bold;
+    font-weight: 600;
+}
